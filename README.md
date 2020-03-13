@@ -1,2 +1,3 @@
-# spblug-faq
-SPbLUG FAQ
+# Saint Petersburg GNU/Linux Users Group FAQ
+
+
